@@ -1,1 +1,177 @@
-# latihancssdasar2.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset='utf-8'>
+    <title>Monumen Nasional</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src="https://kit.fontawesome.com/79fa34a98c.js" crossorigin="anonymous"></script>
+</head>
+<style>
+
+
+img {width: 75%; height: auto; image-resolution: 100%; margin-left: 180px ;
+    }
+
+body {
+background-image: url(images/background2.webp);
+background-color: rgb(240, 231, 237);
+background-repeat: no-repeat;
+background-size: cover;}
+
+h1 {font-family: 'courir new';
+text-align: center;
+font-size: 30px;
+text-shadow: 2px 6px 8px rgb(216, 141, 49);}
+
+h2 {font-family: "monaco", monospace;
+text-align: center;
+font-size: 25px;
+width: 1200px;
+margin: auto;
+border-style: double;
+border-width: 5px;
+border-color:rgb(119, 119, 94)}
+
+
+h3 {font-family: "monaco", monospace;
+font-size: 20px;
+padding: 10px;
+width: 1000px;
+margin: auto;
+text-decoration: underline;}
+
+p {font-family: "monaco", monospace;
+font-size: 18px;
+text-align: justify;
+padding: 10px;
+width: 900px;
+margin: auto;}
+
+div {font-family: "monaco", monospace;
+    font-size: 18px;
+    text-align: justify;
+    padding: 10px;
+    width: 1200px;
+    margin: auto;
+    background-color: rgb(218, 228, 190);
+    width: 1100px;
+    border: 8px solid rgb(235, 177, 107);
+    padding: 40px;
+    margin: auto;}
+
+ol {font-family: "monaco", monospace;
+    font-size: 18px;
+    text-align: justify;}
+
+ul {font-family: "monaco", monospace;
+    font-size: 18px;
+    text-align: justify;
+    width: 900px;
+    margin: auto;
+    padding: 30px;
+    list-style-type: circle;}
+
+
+    #Daftar {font-family: monospace;
+        border-collapse: collapse;
+        width: 1100px;
+        margin:auto;
+        padding: 30px;}
+      
+    #Daftar td, #Daftar th {
+        border: 3px solid #161616;
+        padding: 8px; 
+        font-size: 18px;}
+      
+#Daftar tr:nth-child(even){background-color: #cfdfc4;}
+      
+#Daftar tr:nth-child(odd) {background-color: #d0d6aa;}
+      
+#Daftar th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #bfc99e;
+        color: rgb(6, 5, 5);
+    text-align: center;}
+
+    p {outline-color:rgb(151, 151, 134);}
+            p.outset {outline-style: outset;}
+
+    a:link, a:visited {
+        background-color: rgb(225, 214, 207);
+        color: black;
+        border: rgb(127, 133, 74);
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }
+      a:hover, a:active {
+        background-color: rgb(118, 83, 29);
+        color: white;}
+    
+    a {font-family: monospace;
+        font-size: 20px;
+        padding: 10px;
+        width: 180px;
+        margin-left: 220px;}
+
+</style>
+<body>
+    <h1>Menjejaki Sejarah Bangsa : Mengenal Monas (Monumen Nasional))</h1>
+    <br>
+    <br>
+    <br>
+    <img src="monas.jpeg">
+    <br>
+    <br>
+    <h2> Monumen Nasional (Monas)</h2>
+    <br>
+    <br>
+    <div>Monumen Nasional yang terletak di Lapangan Monas Jakarta Pusat. Dibangun pada dekade 1920-an, Tugu peringatan Nasional dibangun di areal seluas 80 hektar. Tugu ini diarsiteki oleh Friedrich Silaban dan R.M.Soedarsono, mulai dibangun 17 Agustus 1961. Pembangunan Tugu Monas bertujuan mengenang dan melestarikan perjuangan bangsa Indonesia pada masa revolusi 1945, agar terbangkitnya inspirasi dan semangat patriotisme generasi dan generasi mendatang. <br><br>
+        
+        Pembangunan Monumen Nasional terdiri tiga tahap. Tahap pertama kurun 1991-1964 Dimulai dengan dimulainya secara resmi pembangunan Monumen Nasional dengan Soekarno secara seremonial menancapkan pasak beton pertama, total 284 pasak beton yang digunakan sebagai pondasi pembangunan. Sebanyak 360 pasak bumi di tanamkan untuk pondasi museum sejarah nasional, keseluruhan pemasangan pondasi selesai pada bulan Maret 1962. Dinding museum didasar bangunan selesai pada bulan Oktober. Pembangun obelisk kemudian dimulai, dan selesai pada bulan Agustus 1963</div>
+    <br>
+
+    <h2>PROFIL Monas</h2>
+    
+
+    <h3><b>Visi</b></h3>
+    <p>Visi monumen nasional adalah terwujudnya tata pemerintahan yang baik sebagai jasa dan pusat pemerintahan dalam rangka meningkatkan kesejahteraan dan kenyamanan
+    </p>
+    <h3><b>Misi</b></h3>
+    <ul class="Misi">
+            <p>Misi yang dijalankan adalah mengoptimalkan kapasitas kelembagaan masyarakat dalam penyelenggaraan pembangunan dan pelayanan publik<p>
+            
+
+    
+
+    <h2>SEJARAH AWAL Monas (Monumen Nasional)</h2>
+    <br>
+    
+    <p>Setelah pusat pemerintahan Republik Indonesia kembali ke Jakarta setelah sebelumnya berkedudukan di Yogyakarta pada tahun 1950 menyusul pengakuan kedaulatan Republik Indonesia oleh pemerintah Belanda pada tahun 1949, Presiden Sukarno mulai merencanakan pembangunan sebuah monumen nasional yang setara dengan Menara Eiffel di lapangan tepat di depan Istana Merdeka. Pembangunan tugu monas bertujuan mengenang dan melestarikan perjuangan bangsa Indonesia pada masa revolusi kemerdekaan 1945, agar terus membangkitkan inspirasi dan semangat patriotisme generasi penerus bangsa.
+            
+
+    <p>Pada tanggal 17 Agustus 1954 sebuah komite nasional dibentuk dan sayembara perancangan monumen nasional digelar pada tahun 1955. Terdapat 51 karya yang masuk, akan tetapi hanya satu karya yang dibuat oleh Frederich Silaban yang memenuhi kriteria yang ditentukan komite, antara lain menggambarkan karakter bangsa Indonesiadan dapat bertahan selama berabad-abad. Sayembara kedua digelar pada tahun 1960 tetapi sekali lagi tak satupun dari 136 peserta yang memenuhi kriteria. Ketua juri kemudian meminta Silaban untuk menunjukkan rancangannya kepada Sukarno. Akan tetapi Sukarno kurang menyukai rancangan itu dan ia menginginkan monumen itu berbentuk linggadanyoni. Silaban kemudian diminta merancang monumen dengan tema seperti itu, akan tetapi rancangan yang diajukan Silaban terlalu luar biasa sehingga
+ 
+        3 biayanya sangat besar dan tidak mampu ditanggung oleh anggaran negara, terlebih kondisi ekonomi saat itu cukup buruk. Silaban menolak merancang bangunan yang lebih kecil, dan menyarankan pembangunan ditunda hingga ekonomi Indonesia membaik. Sukarno kemudian meminta arsitek R.M. Soedarsono untuk melanjutkan rancangan itu. Soedarsono memasukkan angka 17, 8 dan 45, melambangkan 17 Agustus 1945 memulai Proklamasi Kemerdekaan Indonesia, ke dalam rancangan monumen itu.Tugu Peringatan Nasional ini kemudian dibangun di areal seluas 80 hektare. Tugu ini diarsiteki oleh Frederich Silaban dan R.M. Soedarsono, mulai dibangun 17 Agustus1961.
+    </p>
+    
+    <h2>CONTACT US</h2>
+    <br>
+    <br>
+    
+        <p><b>Jl. Medan Merdeka Barat No.12, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta, Indonesia, 10110</b></p>
+        <p><i class="fa-solid fa-map-location-dot"></i> Monumen Nasional</p>
+        <p><i class="fa-solid fa-tty"></i> +62213868172</p>
+    
+    <a href="https://museumnasional.or.id/" target="_blank">Website Monas</a>
+</div>
+
+</body>
+</html>
+    
+</body>
+</html>
